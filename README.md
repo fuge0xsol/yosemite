@@ -2,7 +2,7 @@
 
 美国优胜美地国家公园酋长岩(El Capitan, 2307米)的三维实景单页应用。基于 Three.js,内嵌真实卫星影像与实测高程,酋长岩壁面绘有 The Nose / Freerider / Dawn Wall 三条著名攀岩路线,含优胜美地瀑布、新娘面纱瀑布、缎带瀑布立体水幕、冰川点观景台与默塞德河。
 
-**在线访问**: https://fuge0xsol.github.io/yosemite/ · https://yosemite-dtk.pages.dev/
+**在线访问**: https://fuge0xsol.github.io/yosemite3d/ · https://yosemite-dtk.pages.dev/
 
 ## 操作
 
